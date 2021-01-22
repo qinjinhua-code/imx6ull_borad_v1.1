@@ -1,0 +1,1 @@
+./imxdownload target.bin /dev/sdb
